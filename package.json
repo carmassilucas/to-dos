@@ -1,6 +1,6 @@
 {
-  "name": "desafio",
-  "version": "1.0.0",
+  "name": "to-dos",
+  "version": "2.0.0",
   "main": "src/server.js",
   "license": "MIT",
   "scripts": {
